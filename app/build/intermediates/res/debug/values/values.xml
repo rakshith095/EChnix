@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/EChnix/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/EChnix/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">EChnix</string>
+    <string name="branch">Branch:</string>
+    <string name="coll">College:</string>
+    <string name="name">Name:</string>
+    <string name="number">Phone Number:</string>
+    <string name="popup_exit">Exit</string>
+    <string name="reg">Register</string>
+    <string name="semester">Semester:</string>
+    <string name="title_about">About</string>
+    <string name="title_exam">Exam</string>
+    <string name="title_ftv">Mr and Ms EChnix</string>
+    <string name="title_initial_screen">EChnix</string>
+    <string name="title_kbh">Koun Banega Hazarpati</string>
+    <string name="title_loot">Loot</string>
+    <string name="title_mc">Master Chef</string>
+    <string name="title_menu">Event List</string>
+    <string name="title_mockit">Mock IT</string>
+    <string name="title_research">Research</string>
+    <string name="title_zno">0\'s and 1\'s</string>
+    <!-- From: file:/C:/Users/Rakshith's%20%20PC/AndroidStudioProjects/EChnix/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
